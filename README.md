@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KOSASIH
-- 👀 I’m interested in computer software. 
+- 👀 I’m interested in computer since. 
 - 🌱 I’m currently learning build project and app. 
 - 💞️ I’m looking to collaborate on developing project. 
 - 📫 How to reach me kosasihg88@gmail.com
