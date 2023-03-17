@@ -2,6 +2,7 @@
 
 - 👋 Hi, I’m @KOSASIH
 
+[![An image of @kosasih's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kosasih)](https://holopin.io/@kosasih)
 ![Profile View Counter](https://komarev.com/ghpvc/?username=KOSASIH)
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=KOSASIH&show_icons=true)
 
