@@ -1,3 +1,4 @@
+[![Galactic Cryptography Award](https://img.shields.io/badge/Galactic%20Cryptography%20Award-Winner-ff69b4.svg)](https://galactic-cryptography-award.org/winners/kosasih)
 
 
 - 👋 Hi, I’m @KOSASIH
