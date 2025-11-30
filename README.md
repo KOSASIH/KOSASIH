@@ -1,3 +1,5 @@
+[![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=KOSASIH&row=1)](https://github.com/KOSASIH/github-profile-trophy)
+
 - 👋 Hi, I’m @KOSASIH
 
 [![An image of @kosasih's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kosasih)](https://holopin.io/@kosasih)
